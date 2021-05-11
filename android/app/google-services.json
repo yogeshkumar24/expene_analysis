@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "452297078246",
+    "project_id": "expenseanalysis-59da3",
+    "storage_bucket": "expenseanalysis-59da3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452297078246:android:0c768ecb5e38c5b4229227",
+        "android_client_info": {
+          "package_name": "com.yogesh.expene_analysis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452297078246-k9rn8g61mj6a7agkieb8u9dpqq6ck7f3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yogesh.expene_analysis",
+            "certificate_hash": "53a94a9b40b2ccb50de75ed4dc1c4a9ff45374a8"
+          }
+        },
+        {
+          "client_id": "452297078246-lo55eqve95pebm7528cuip6s0a8u9vns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZEATNafTqxq2HevtaTMzo_rPjxBRfxB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452297078246-lo55eqve95pebm7528cuip6s0a8u9vns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
